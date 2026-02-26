@@ -1,5 +1,8 @@
 # Replication Package: GenAI and Multi-Agent Systems for Software Testing (Rapid Review)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18791805.svg)](https://doi.org/10.5281/zenodo.18791805)
+
+
 This repository contains the replication package and supplementary materials for the paper: 
 **"What solutions based on Generative Artificial Intelligence are available to support testing-related activities in Software Engineering: A Rapid Literature Review"**.
 
@@ -49,7 +52,7 @@ If you use this dataset or the findings from our review, please cite our work:
   author={Moliterno, Nicolas Guilhermo Silva},
   journal={SBC Computing Reviews},
   year={2026},
-  doi={}
+  doi={https://doi.org/10.5281/zenodo.18791805}
 }
 ```
 
