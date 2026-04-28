@@ -1,0 +1,65 @@
+# =========================
+# 🔐 Credenciais (NUNCA versionar)
+# =========================
+credentials.json
+token.json
+*.json
+Tests/*
+
+# ⚠️ exceção (caso você tenha outros JSON que queira versionar)
+#!data/*.json
+
+# =========================
+# 📥 Downloads / outputs gerados
+# =========================
+downloads/
+downloads_oauth/
+*.xlsx
+*.csv
+
+# ⚠️ exceção: manter seus dados originais versionados
+!data/*.csv
+
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+
+# ambientes virtuais
+venv/
+.env/
+.venv/
+
+# =========================
+# 🧪 Testes / temporários
+# =========================
+*.log
+*.tmp
+*.cache
+*.bak
+
+# =========================
+# 🖥️ Sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🧠 IDEs / editores
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 📦 Build / dist
+# =========================
+build/
+dist/
+*.egg-info/
